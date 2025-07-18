@@ -9,7 +9,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=its-sarthak-27&layout=compact&theme=dark&hide_border=true&border_radius=12" width="45%" />
+  
+  <img src="https://github.com/its-sarthak-27/its-sarthak-27/blob/main/WhatsApp%20Image%202025-07-18%20at%2022.35.51_0a058d28%20(1).jpg" />
 </p>
 
 ---
