@@ -45,8 +45,7 @@
 </p>
 
 ---
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-sarthak-27&theme=github-compact&hide_border=true" />
 ---
 
 ## 🌀 Visitor & Follower Count
