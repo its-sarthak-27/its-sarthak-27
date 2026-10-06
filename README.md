@@ -1,256 +1,136 @@
+<!-- ========================================================= -->
+<!--                    SARTHAK PROFILE                        -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Sarthak Kumar Srivastav"/>
+<img src="./assets/hero.svg?v=1" width="100%" alt="Sarthak Kumar Srivastav - Hero"/>
 
-<br><br>
+<br/>
 
 <a href="https://github.com/its-sarthak-27">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-its--sarthak--27-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sarthak-kumar-srivastav-b80050361/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sarthak%20Kumar%20Srivastav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/its.sarthak.27">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-@its.sarthak.27-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+<br/>
 
 ---
 
 <div align="center">
 
-# 👋 Hey, I'm Sarthak
-
-### `AI/ML Engineer • Full Stack Developer • Creative Builder`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+%F0%9F%A4%96;Creating+beautiful+digital+experiences+%F0%9F%8E%A8;Exploring+AI%2C+Computer+Vision+%26+Web+%F0%9F%9A%80;From+Varanasi+%F0%9F%AA%94+to+the+world+%F0%9F%8C%8E" />
+<img src="./assets/about.svg?v=1" width="100%" alt="About Sarthak"/>
 
 </div>
+
+<br/>
 
 ---
 
-# 🌈 ABOUT ME
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-I'm a developer passionate about building things that combine:
-
-### 🤖 Artificial Intelligence
-Machine Learning • Deep Learning • Computer Vision
-
-### ⚛️ Modern Development
-React • Node.js • Python • APIs • Databases
-
-### 🎨 Creative Technology
-UI/UX • Motion • Interactive Interfaces
-
-I love taking an idea from:
-
-**💡 Idea → 🎨 Design → 💻 Code → 🚀 Product**
-
-<br>
-
-> ### "Build something useful.  
-> Make it beautiful.  
-> Make it memorable."
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="./assets/varanasi.jpg" width="100%" alt="Varanasi"/>
-
-<br>
-
-### 🪔 Varanasi, India
-
-`Roots ↓`
-
-`Curiosity ↓`
-
-`Code ↓`
-
-`Future`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚡ WHAT I DO
-
 <div align="center">
 
-| 🤖 AI / ML | ⚛️ DEVELOPMENT | 🎨 DESIGN | 🚀 BUILDING |
-|:---:|:---:|:---:|:---:|
-| Machine Learning | React | UI/UX | Real Products |
-| Deep Learning | Node.js | Motion Design | Startups |
-| Computer Vision | Python | Creative UI | Experiments |
-| AI Systems | APIs | Visual Design | Open Source |
+<img src="./assets/stack.svg?v=1" width="100%" alt="Technology Universe"/>
 
 </div>
 
----
-
-# 🧠 TECHNOLOGY UNIVERSE
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,framer,nodejs,express,mongodb,mysql" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,linux" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⚡ Languages
-
-`Python` `C++` `Java` `JavaScript` `TypeScript`
-
-### 🎨 Frontend
-
-`React` `Vite` `Tailwind CSS` `Framer Motion`
-
-### 🧠 Backend
-
-`Node.js` `Express` `Python` `REST APIs`
-
-### 🗄️ Database
-
-`MongoDB` `MySQL`
-
-### 🛠️ Tools
-
-`Git` `GitHub` `VS Code` `Figma` `Vercel`
-
-</div>
+<br/>
 
 ---
 
 # 🚀 FEATURED PROJECTS
 
-<table>
+<div align="center">
 
-<tr>
+<img src="./assets/projects.svg?v=1" width="100%" alt="Featured Projects"/>
 
-<td width="50%" valign="top">
+</div>
 
-## 🌧️ VARSHA-SETU
+<br/>
 
-### Urban Flood Nowcasting
+### 🌧️ VARSHA-SETU
 
-AI + GIS based urban flood intelligence system focused on short-term flood nowcasting and disaster management.
+Urban Flood Nowcasting System focused on rainfall, terrain, hydraulic modelling and disaster-management intelligence.
 
-**Technologies**
-
-`Python` `AI/ML` `React` `GIS` `SWMM`
-
-### 🎯 Goal
-
-Help understand rainfall-driven urban flooding and safer movement during extreme weather.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 👗 DREAMY DRAPES
-
-### Fashion Discovery Platform
-
-A Pinterest-inspired fashion discovery and affiliate platform.
-
-**Technologies**
-
-`React` `Vite` `Tailwind` `Node.js` `MongoDB`
-
-### 🎯 Goal
-
-Make fashion discovery visual, simple and engaging.
-
-🌐 **[Live Website](https://dreamy-drapes-klgx.vercel.app)**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔥 FIRE & SMOKE AI
-
-### Real-Time Detection
-
-Computer vision system for detecting fire and smoke from video streams.
-
-**Technologies**
-
-`Python` `YOLO` `OpenCV` `Deep Learning`
-
-### 🎯 Goal
-
-Real-time detection + alerts + event logging.
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧪 EXPERIMENT LAB
-
-### Always Building
-
-Small experiments, UI concepts, AI prototypes, algorithms and ideas.
-
-**Status**
-
-`BUILDING...`
-
-`LEARNING...`
-
-`ITERATING...`
-
-`SHIPPING...`
-
-</td>
-
-</tr>
-
-</table>
+**Focus:** `AI/ML` `GIS` `React` `Python` `SWMM`
 
 ---
 
-# 📊 GITHUB ANALYTICS
+### 👗 DREAMY DRAPES
+
+Pinterest-inspired visual fashion discovery and affiliate platform.
+
+**Focus:** `React` `Vite` `Tailwind CSS` `Node.js` `MongoDB`
+
+🌐 **Live:**  
+https://dreamy-drapes-klgx.vercel.app
+
+---
+
+### 🔥 FIRE & SMOKE AI
+
+Real-time fire and smoke detection prototype using computer vision and deep learning.
+
+**Focus:** `Python` `YOLO` `OpenCV` `Deep Learning`
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=its-sarthak-27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=FFFFFF&rank_icon=github" width="49%"/>
+<a href="https://github.com/its-sarthak-27?tab=repositories">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=its-sarthak-27&hide_border=true&background=0D1117&ring=F472B6&fire=FB7185&currStreakLabel=FFFFFF" width="49%"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-sarthak-27&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" width="38%"/>
+</a>
 
 </div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="./assets/stats.svg?v=1" width="100%" alt="GitHub Activity"/>
+
+</div>
+
+<br/>
+
+---
+
+# 📊 LIVE GITHUB STATS
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=its-sarthak-27&show_icons=true&hide_border=true&bg_color=070B16&title_color=8B5CF6&icon_color=22D3EE&text_color=FFFFFF&rank_icon=github"
+width="49%"
+/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=its-sarthak-27&hide_border=true&background=070B16&ring=F472B6&fire=FB7185&currStreakLabel=FFFFFF"
+width="49%"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-sarthak-27&layout=compact&hide_border=true&bg_color=070B16&title_color=8B5CF6&text_color=FFFFFF"
+width="42%"
+/>
+
+</div>
+
+<br/>
 
 ---
 
@@ -258,29 +138,103 @@ Small experiments, UI concepts, AI prototypes, algorithms and ideas.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/its-sarthak-27/its-sarthak-27/output/github-contribution-grid-snake-dark.svg" />
+<img
+src="https://raw.githubusercontent.com/its-sarthak-27/its-sarthak-27/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+/>
 
 </div>
 
+<br/>
+
 ---
 
-# 🎯 CURRENTLY WORKING ON
+# 🧭 CURRENTLY EXPLORING
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────╮
-│                                                  │
-│   🤖  Artificial Intelligence                    │
-│                                                  │
-│   👁️  Computer Vision                            │
-│                                                  │
-│   ⚛️  Advanced React Applications                │
-│                                                  │
-│   🧠  Data Structures & Algorithms               │
-│                                                  │
-│   🎨  Premium UI / UX                            │
-│                                                  │
-│   🌍  Real-World Digital Products                │
-│                                                  │
-╰──────────────────────────────────────────────────╯
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Modern+React+Applications+%E2%9A%9B%EF%B8%8F;Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Premium+UI%2FUX+%F0%9F%8E%A8;Building+Real-World+Products+%F0%9F%9A%80"
+alt="Currently Exploring"
+/>
+
+</div>
+
+<br/>
+
+---
+
+# 💭 DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+### 💡 Think
+
+↓
+
+### 🎨 Design
+
+↓
+
+### 💻 Build
+
+↓
+
+### 🧪 Experiment
+
+↓
+
+### 📚 Learn
+
+↓
+
+### 🚀 Ship
+
+<br/>
+
+> **Don't just build something that works.**
+>
+> **Build something worth remembering.**
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="./assets/connect.svg?v=1" width="100%" alt="Let's Connect"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🌐 FIND ME AROUND THE INTERNET
+
+<a href="https://github.com/its-sarthak-27">
+<img src="https://img.shields.io/badge/GitHub-its--sarthak--27-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sarthak-kumar-srivastav-b80050361/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/its.sarthak.27">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=its-sarthak-27&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
+
+<br/><br/>
+
+### 🪔 Made with curiosity from Varanasi
+
+**Sarthak Kumar Srivastav**
+
+</div>
