@@ -1,101 +1,286 @@
+<div align="center">
 
-<h1 align="center" style="color:#4CAF50;">Hi 👋, I'm <span style="color:#2196F3;">Sarthak Kumar Srivastav</span></h1>
+<img src="./assets/hero.svg" width="100%" alt="Sarthak Kumar Srivastav"/>
 
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Passionate+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
-</p>
+<br><br>
 
----
+<a href="https://github.com/its-sarthak-27">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
-  
-  <img src="https://github.com/its-sarthak-27/its-sarthak-27/blob/main/WhatsApp%20Image%202025-07-18%20at%2022.35.51_0a058d28%20(1).jpg" />
-</p>
+<a href="https://www.linkedin.com/in/sarthak-kumar-srivastav-b80050361/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://www.instagram.com/its.sarthak.27">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-## 🌟 About Me
-- 🔭 I’m currently working on **exciting Python projects**
-- 🌱 I’m currently learning **Data Structures & Algorithms, Java**
-- 👯 I’m looking to collaborate on **Open Source and innovative projects**
-- 💬 Ask me about **Python, HTML, Java, or anything tech!**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: *"I turn ☕ into 💻"*
+</div>
+
+<br>
 
 ---
 
-## 🧰 My Toolkit
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,github,vscode" />
-</p>
+<div align="center">
 
+# 👋 Hey, I'm Sarthak
 
+### `AI/ML Engineer • Full Stack Developer • Creative Builder`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+%F0%9F%A4%96;Creating+beautiful+digital+experiences+%F0%9F%8E%A8;Exploring+AI%2C+Computer+Vision+%26+Web+%F0%9F%9A%80;From+Varanasi+%F0%9F%AA%94+to+the+world+%F0%9F%8C%8E" />
 
-## 📊 My GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-sarthak-27&show_icons=true&theme=dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-sarthak-27&theme=dark&hide_border=true&border_radius=12" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=its-sarthak-27&theme=onedark&no-frame=true&row=1&margin-w=10&margin-h=10&column=4" width="50%" />
-</p>
-
----
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=its-sarthak-27&theme=github-compact&hide_border=true" />
----
-
-## 🌀 Visitor & Follower Count
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@its-sarthak-27?theme=flat" alt="Visitor Count" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/its-sarthak-27?label=⭐%20Followers&style=for-the-badge&logo=github&logoColor=white&color=0d6efd" alt="GitHub Followers" />
-</p>
-
-<p align="center">
-  <sub><i>Thank you for visiting & supporting my work! 🚀</i></sub>
-</p>
-
+</div>
 
 ---
 
+# 🌈 ABOUT ME
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarthak-kumar-srivastav-b80050361/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sarthakinsight@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/its.sarthak.27" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-1DA1F2?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-</p>
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+I'm a developer passionate about building things that combine:
+
+### 🤖 Artificial Intelligence
+Machine Learning • Deep Learning • Computer Vision
+
+### ⚛️ Modern Development
+React • Node.js • Python • APIs • Databases
+
+### 🎨 Creative Technology
+UI/UX • Motion • Interactive Interfaces
+
+I love taking an idea from:
+
+**💡 Idea → 🎨 Design → 💻 Code → 🚀 Product**
+
+<br>
+
+> ### "Build something useful.  
+> Make it beautiful.  
+> Make it memorable."
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./assets/varanasi.jpg" width="100%" alt="Varanasi"/>
+
+<br>
+
+### 🪔 Varanasi, India
+
+`Roots ↓`
+
+`Curiosity ↓`
+
+`Code ↓`
+
+`Future`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## ✨ Cool Animation
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Keep%20Coding%20🚀&fontAlign=center&fontAlignY=40&color=gradient" />
-</p>
+# ⚡ WHAT I DO
+
+<div align="center">
+
+| 🤖 AI / ML | ⚛️ DEVELOPMENT | 🎨 DESIGN | 🚀 BUILDING |
+|:---:|:---:|:---:|:---:|
+| Machine Learning | React | UI/UX | Real Products |
+| Deep Learning | Node.js | Motion Design | Startups |
+| Computer Vision | Python | Creative UI | Experiments |
+| AI Systems | APIs | Visual Design | Open Source |
+
+</div>
 
 ---
 
-## ✍️ Quote to Code By
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=F7DC6F&center=true&vCenter=true&width=1000&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson" />
-</p>
+# 🧠 TECHNOLOGY UNIVERSE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,framer,nodejs,express,mongodb,mysql" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,linux" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ Languages
+
+`Python` `C++` `Java` `JavaScript` `TypeScript`
+
+### 🎨 Frontend
+
+`React` `Vite` `Tailwind CSS` `Framer Motion`
+
+### 🧠 Backend
+
+`Node.js` `Express` `Python` `REST APIs`
+
+### 🗄️ Database
+
+`MongoDB` `MySQL`
+
+### 🛠️ Tools
+
+`Git` `GitHub` `VS Code` `Figma` `Vercel`
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-sarthak-27&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Coding%20With-Python-%2314354C?style=flat-square&logo=python&logoColor=yellow" />
-</p>
+# 🚀 FEATURED PROJECTS
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌧️ VARSHA-SETU
+
+### Urban Flood Nowcasting
+
+AI + GIS based urban flood intelligence system focused on short-term flood nowcasting and disaster management.
+
+**Technologies**
+
+`Python` `AI/ML` `React` `GIS` `SWMM`
+
+### 🎯 Goal
+
+Help understand rainfall-driven urban flooding and safer movement during extreme weather.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 👗 DREAMY DRAPES
+
+### Fashion Discovery Platform
+
+A Pinterest-inspired fashion discovery and affiliate platform.
+
+**Technologies**
+
+`React` `Vite` `Tailwind` `Node.js` `MongoDB`
+
+### 🎯 Goal
+
+Make fashion discovery visual, simple and engaging.
+
+🌐 **[Live Website](https://dreamy-drapes-klgx.vercel.app)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔥 FIRE & SMOKE AI
+
+### Real-Time Detection
+
+Computer vision system for detecting fire and smoke from video streams.
+
+**Technologies**
+
+`Python` `YOLO` `OpenCV` `Deep Learning`
+
+### 🎯 Goal
+
+Real-time detection + alerts + event logging.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧪 EXPERIMENT LAB
+
+### Always Building
+
+Small experiments, UI concepts, AI prototypes, algorithms and ideas.
+
+**Status**
+
+`BUILDING...`
+
+`LEARNING...`
+
+`ITERATING...`
+
+`SHIPPING...`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=its-sarthak-27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=FFFFFF&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=its-sarthak-27&hide_border=true&background=0D1117&ring=F472B6&fire=FB7185&currStreakLabel=FFFFFF" width="49%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-sarthak-27&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" width="38%"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION JOURNEY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/its-sarthak-27/its-sarthak-27/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🎯 CURRENTLY WORKING ON
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────────╮
+│                                                  │
+│   🤖  Artificial Intelligence                    │
+│                                                  │
+│   👁️  Computer Vision                            │
+│                                                  │
+│   ⚛️  Advanced React Applications                │
+│                                                  │
+│   🧠  Data Structures & Algorithms               │
+│                                                  │
+│   🎨  Premium UI / UX                            │
+│                                                  │
+│   🌍  Real-World Digital Products                │
+│                                                  │
+╰──────────────────────────────────────────────────╯
